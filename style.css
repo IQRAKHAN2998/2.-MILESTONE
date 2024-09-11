@@ -1,0 +1,43 @@
+*{
+text-align: center;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(162, 250, 220);
+}
+input , textarea{
+    border-color: rgb(6, 63, 6);
+}
+h3{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+legend {
+    font-weight: bold;
+}
+button{
+    color: rgb(16, 17, 16);
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 90px;
+   
+}
+#resume-output {
+    border: 1px solid #ccc;
+    padding: 10px;
+   
+}
